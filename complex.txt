@@ -1,5 +1,1 @@
-Git seems complex.
-AND 
-It is very hard.
-Good luck on your midterms! 
-Y'all got this!!!!
+Git is hard
