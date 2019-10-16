@@ -1,2 +1,3 @@
 Git is hard
-But with practice,
+With practice,
+You can be a Git master
