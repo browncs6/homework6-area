@@ -1,0 +1,3 @@
+Git seems complex.
+AND 
+It is very hard.
